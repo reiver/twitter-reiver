@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../style/tweet.xsl"?>
+<tweet>
+	<created_at>2008-03-16T18:06:57.000Z</created_at>
+	<id>772436998</id>
+	<lang>en</lang>
+	<text>Been taking a buddy of mine of the gym with me.  Been teaching him how to lift weights properly.  Did legs yesterday. Started w/ squats.</text>
+	<author>
+		<created_at>2008-03-16T06:33:43.000Z</created_at>
+		<id>14156466</id>
+		<name>Charles Iliya Krempeaux</name>
+		<username>reiver</username>
+	</author>
+</tweet>

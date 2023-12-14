@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../style/tweet.xsl"?>
+<tweet>
+	<created_at>2008-03-16T23:19:14.000Z</created_at>
+	<id>772533842</id>
+	<lang>en</lang>
+	<text>Been on Twitter for less than 1 day.  It feels like Facebook statuses, with a history.</text>
+	<author>
+		<created_at>2008-03-16T06:33:43.000Z</created_at>
+		<id>14156466</id>
+		<name>Charles Iliya Krempeaux</name>
+		<username>reiver</username>
+	</author>
+</tweet>

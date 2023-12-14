@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../style/tweet.xsl"?>
+<tweet>
+	<created_at>2008-03-18T00:31:15.000Z</created_at>
+	<id>773086892</id>
+	<lang>en</lang>
+	<text>2nd day using Twitter.  Noticing there seems to be "Twitter bursts".  Times when many people I'm watching start Twittering.</text>
+	<author>
+		<created_at>2008-03-16T06:33:43.000Z</created_at>
+		<id>14156466</id>
+		<name>Charles Iliya Krempeaux</name>
+		<username>reiver</username>
+	</author>
+</tweet>

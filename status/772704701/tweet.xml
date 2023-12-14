@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../style/tweet.xsl"?>
+<tweet>
+	<created_at>2008-03-17T08:37:56.000Z</created_at>
+	<id>772704701</id>
+	<lang>en</lang>
+	<text>Would be cool too if [the social-media bookmarking site] del.icio.us would show "clustering" more based on time. So could see easier what got bookmarked around the same time.</text>
+	<author>
+		<created_at>2008-03-16T06:33:43.000Z</created_at>
+		<id>14156466</id>
+		<name>Charles Iliya Krempeaux</name>
+		<username>reiver</username>
+	</author>
+</tweet>

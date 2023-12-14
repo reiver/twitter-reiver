@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../style/tweet.xsl"?>
+<tweet>
+	<created_at>2008-03-17T08:36:24.000Z</created_at>
+	<id>772704300</id>
+	<lang>en</lang>
+	<text>[the social-media bookmarking site] del.icio.us would be better if could see thing bookmarked around the same time easier.  (Like from tag pages too.  And URL info page.)</text>
+	<author>
+		<created_at>2008-03-16T06:33:43.000Z</created_at>
+		<id>14156466</id>
+		<name>Charles Iliya Krempeaux</name>
+		<username>reiver</username>
+	</author>
+</tweet>
